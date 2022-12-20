@@ -12,7 +12,7 @@ Projeto desenvolvido para o desafio da Challenge Oracle ONE na formação de lin
 
 
 
-## 🛠 Tecnologias ##
+## 💻🛠 Tecnologias e Ferramentas:
   - Java
   - Git e Github
 
