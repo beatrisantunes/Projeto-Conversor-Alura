@@ -4,6 +4,7 @@ Projeto desenvolvido para o desafio da Challenge Oracle ONE na formação de lin
 
 <p align="center">
 <img width="150" src="https://i.imgur.com/6cJOJm9.png">
+  </p>
   
 > Trilha de Java
   
